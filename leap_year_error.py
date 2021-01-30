@@ -14,7 +14,7 @@ def get_input():
     user = input('Enter a year: ')
     # exit if the user wants to
     if str == 'e' or str == 'exit': sys.exit(0)
-    #try casting to an int
+    # try casting to an int
     try: user = int(user)
     except ValueError:
         # keep trying until we get good input
