@@ -38,7 +38,7 @@ def main():
     # get user input
     user_input = get_input()
 
-    # determine if it's a leap year
+    # cast to int
     year = int(user_input)
 
     # determine if it's a leap year

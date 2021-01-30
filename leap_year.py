@@ -28,7 +28,7 @@ def main():
     if user_input == 'e' or user_input == 'exit':
         return
 
-    # determine if it's a leap year
+    # cast to int
     year = int(user_input)
 
     # determine if it's a leap year
