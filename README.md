@@ -1,14 +1,22 @@
+# unit-test
+
+in-class activity for software engineering 2
+
+#### unit_test.py
+
+to execute: python3 unit_test.py
+
 # leap-year
 
 homework 3 for software engineering 2
 
-### leap_year.py
+#### leap_year.py
 
 to execute: python3 leap_year.py
 
 * determines if user inputs a leap year
 
-### leap_year_error.py
+#### leap_year_error.py
 
 to execute: python3 leap_year_error.py
 
