@@ -1,5 +1,5 @@
 import unittest
-import arithmatic as a
+import arithmetic as a
 
 class testArithmetic(unittest.TestCase):
     def test_addition(self):
