@@ -1,5 +1,4 @@
 import unittest
-
 import arithmatic as a
 
 class testArithmetic(unittest.TestCase):
