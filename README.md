@@ -1,3 +1,16 @@
+# hw-4
+
+homework 4 for software engineering 2
+
+#### script1.py
+
+to execute: python3 script1.py
+
+#### script2.py
+
+to execute: python3 script2.py
+
+
 # unit-test
 
 in-class activity for software engineering 2
