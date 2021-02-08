@@ -2,14 +2,15 @@
 
 homework 4 for software engineering 2
 
-#### script1.py
+#### func.py
 
-to execute: python3 script1.py
+* contains the functions cube_volume, average_list, and make_name
 
-#### script2.py
+#### func_tests.py
 
-to execute: python3 script2.py
+to execute: python3 func_tests.py
 
+* contains the tests for func.py
 
 # unit-test
 
