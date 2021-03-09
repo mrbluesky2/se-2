@@ -1,3 +1,27 @@
+# hw-7
+
+homework 7 for software engineering 2
+
+#### fizzbuzz.py
+
+* contians the functions fb_value, and fizzbuzz (prints fb_value for 1-100)
+
+#### fizzbuzz_test.py
+
+to execute: python3 fizzbuzz_test.py
+
+* contains the tests for fizzbuzz.py
+
+#### leapyear.py
+
+* contians the function leap_year
+
+#### leapyear_test.py
+
+to execute: python3 leapyear_test.py
+
+* contains the tests for leapyear.py
+
 # hw-4
 
 homework 4 for software engineering 2
